@@ -1,7 +1,7 @@
 const menu = [
   { name: "$ cd ~", path: "/" },
+  { name: "About", path: "/about" },
   { name: "Work", path: "/projects" },
-  { name: "Blog", path: "/blog" },
 ];
 
 export default menu;
