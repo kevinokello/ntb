@@ -15,5 +15,10 @@
       environment. Excellent at time management, organization, problem solving
       and meeting deadlines.
     </p>
+      <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify"></p>
+    "I'm Looking To Expand My Portfolio
+While I'm On Topand While I'm Young."
+    </p>
+
   </div>
 </template>
