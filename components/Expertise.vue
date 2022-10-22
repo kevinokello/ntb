@@ -45,6 +45,9 @@
         <li class="flex items-center">
           <Node class="h-10 w-10"></Node>
         </li>
+           <li class="flex items-center">
+          <Php class="h-10 w-10"></Php>
+        </li>
       </ul>
     </div>
   </div>
@@ -58,7 +61,8 @@ import Vuejs from "../assets/devicon/vuejs.svg?inline";
 import TailwindCss from "../assets/devicon/tailwindcss.svg?inline";
 import Nuxt from "../assets/devicon/nuxt.svg?inline";
 import Bootstrap from "../assets/devicon/bootstrap.svg?inline";
-import Laravel from "../assets/devicon/laravel.svg?inline";
+import Laravel from "../assets/devicon/svv.svg?inline";
+import Php from "../assets/devicon/phpwine.svg?inline";
 import Node from "../assets/devicon/node.svg?inline";
 export default {
   components: {
@@ -71,6 +75,7 @@ export default {
     Nuxt,
     Laravel,
     Node,
+    Php,
   },
 };
 </script>
