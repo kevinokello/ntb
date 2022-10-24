@@ -5,19 +5,10 @@
     >
       Hi 👋, I Am Kevin Okello
     </h2>
-    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
+    <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
       I Work with a variety of different languages, frameworks, platforms, and
       content management systems to write modern, performant, maintainable code
       for a diverse array of clients and internal projects.
-    </p>
-    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      I am adept at handling multiple design projects in a fast paced
-      environment. Excellent at time management, organization, problem solving
-      and meeting deadlines.
-    </p>
-      <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify"></p>
-    "I'm Looking To Expand My Portfolio
-While I'm On Topand While I'm Young."
     </p>
 
   </div>

@@ -1,5 +1,5 @@
 const menu = [
-  { name: "$ cd ~", path: "/" },
+  { name: "$ ~", path: "/" },
   { name: "About", path: "/about" },
   { name: "Work", path: "/projects" },
 ];
