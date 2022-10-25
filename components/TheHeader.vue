@@ -12,7 +12,7 @@
       </label>
 
       <ul class="flex justify-center list-reset m-0 w-full md:w-auto">
-        <li v-for="item in navLinks" :key="item.path">
+        <li  v-for="item in navLinks" :key="item.path">
           <NuxtLink
             :to="item.path"
             class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold text-lg md:text-2xl"
@@ -39,6 +39,6 @@ export default {
 
 <style>
 .nuxt-link-exact-active {
-  @apply text-indigo-600;
+  @apply text-green-600;
 }
 </style>

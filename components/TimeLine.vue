@@ -15,7 +15,7 @@
         >
           Software Engineer at Pesafy
           <span
-            class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3"
+            class="bg-blue-100 text-green-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3"
             >Currently</span
           >
         </h3>
@@ -33,13 +33,18 @@
           class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900"
         >
           <img
-            class="w-3 h-3 text-blue-600 dark:text-blue-400"
+            class="w-3 h-3 text-green-600 dark:text-green-400"
             src="~assets/icon/academy.svg"
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          Lead Engineer webluxra · Freelance
+          Lead Engineer webluxra ·
+           <span
+            class="bg-blue-100 text-red-900 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3"
+            >OPen to freelance</span
+          >
         </h3>
+
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
           >2018-Currently</time
