@@ -19,6 +19,16 @@ const projectsData = [
     tech2: "Heroku",
     tech3: "Bootstrap",
   },
+    {
+    title: "Airbnb MUI Clone",
+    description: "Made with react",
+    imgSrc: "",
+    href: "https://airbnb-mui-clone.vercel.app/",
+    github: "https://github.com/kevinokello",
+    tech1: "Gatsby",
+    tech2: "Heroku",
+    tech3: "Bootstrap",
+  },
 ];
 
 export default projectsData;
