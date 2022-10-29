@@ -50,5 +50,4 @@ const projectsData = [
     tech3: "",
   },
 ];
-
 export default projectsData;

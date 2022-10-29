@@ -5,9 +5,7 @@
     >
       <div class="p-6">
         <div class="flex flex-row justify-between items-center">
-          <div class="my-2">
-            <Folder class="text-indigo-800"></Folder>
-          </div>
+          <div class="my-2"></div>
           <div class="flex flex-row justify-between">
             <div class="mx-1">
               <a
@@ -19,19 +17,11 @@
                 ><img class="w-6 h-6" src="~assets/icon/external.svg"
               /></a>
             </div>
-            <div class="mx-1">
-              <a
-                class="text-sm text-gray-500 transition hover:text-gray-600"
-                target="_blank"
-                rel="noopener noreferrer"
-                :href="projectGithub"
-                ><span class="sr-only">github</span
-                ><img class="w-6 h-6" src="~assets/icon/github_new.svg"
-              /></a>
-            </div>
           </div>
         </div>
-        <h2 class="text-2xl font-bold leading-8 tracking-tight mb-3">
+        <h2
+          class="text-2xl text-green-800 font-bold leading-8 tracking-tight mb-3"
+        >
           {{ projectTitle }}
         </h2>
         <p class="prose text-gray-500 max-w-none dark:text-gray-400 mb-3">
