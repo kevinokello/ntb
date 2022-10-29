@@ -39,6 +39,16 @@ const projectsData = [
     tech2: "Heroku",
     tech3: "Bootstrap",
   },
+  {
+    title: "Baraka Shop",
+    description: "a simple nextjs ecommerce site with strapi backend",
+    imgSrc: "",
+    href: "https://baraka-shop.vercel.app/",
+    github: "https://github.com/kevinokello",
+    tech1: "next-js",
+    tech2: "sanity",
+    tech3: "",
+  },
 ];
 
 export default projectsData;
