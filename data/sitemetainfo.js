@@ -1,8 +1,8 @@
 const siteMetaInfo = {
   title: "Kevin Okello | Software Developer",
-  author: "Kevin Okello",
+  author: "",
   author_image: "/me.jpeg",
-  position: "Full Stack Developer",
+  position: "",
   location: "Nairobi, Kenya",
   headerTitle: "Kevin Okello",
   slogan: "Let's start coding",

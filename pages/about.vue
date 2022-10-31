@@ -13,16 +13,7 @@
         am able to visualize and create beautiful works. Lastly, you can find me
         mostly tweaking on back-end. I especially enjoy working with LARAVEL.
       </p>
-      <template>
-        <article class="post__image">
-          <img
-            class="ml-8 mt-3 text-center xl:max-w-5xl image"
-            src="~/assets/hero.webp"
-            alt="post picture"
-          />
 
-        </article>
-      </template>
       <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
         I am adept at handling multiple design projects in a fast paced
         environment. Excellent at time management, organization, problem solving
@@ -30,6 +21,15 @@
         and visual aspects of digital products to life. User experience,
         beautiful pixels and writing clean accessible, human code matters to me.
       </p>
+      <template>
+        <article class="post__image">
+          <img
+            class=" mt-3 text-center xl:max-w-5xl image"
+            src="~/assets/hero.webp"
+            alt="post picture"
+          />
+        </article>
+      </template>
     </div>
     <main class="relative mb-auto">
       <div class="">
