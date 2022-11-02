@@ -23,6 +23,7 @@ const siteMetaInfo = {
   stackoverflow: "#",
   youtube: "#",
   linkedin: "#",
+  
 };
 
 export default siteMetaInfo;
