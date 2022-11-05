@@ -49,15 +49,15 @@ const projectsData = [
     tech2: "sanity",
     tech3: "",
   },
-    {
-    title: "Keja",
-    description: "find your dream home",
-    imgSrc: "",
-    href: "https://keja-five.vercel.app/",
-    github: "https://github.com/kevinokello",
-    tech1: "next-js",
-    tech2: "sanity",
-    tech3: "",
-  },
+  //   {
+  //   title: "Keja",
+  //   description: "find your dream home",
+  //   imgSrc: "",
+  //   href: "https://keja-five.vercel.app/",
+  //   github: "https://github.com/kevinokello",
+  //   tech1: "next-js",
+  //   tech2: "sanity",
+  //   tech3: "",
+  // },
 ];
 export default projectsData;

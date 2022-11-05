@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-3xl px-4 mx-auto sm:px-6 xl:max-w-5xl xl:px-0">
     <div class="pt-6 pb-8 space-y-2 md:space-y-5">
-      <template>
+      {/* <template>
   <!-- <button  href="https://drive.google.com/file/d/1v63laDn0olipMKNxnUJfwn5-rkaXkxzo/view?usp=sharing" target="_blank" type="button" class="text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">    <svg
             class="fill-current w-4 h-4 mr-2"
             xmlns="http://www.w3.org/2000/svg"
@@ -18,7 +18,7 @@
             />
           </div>
         </div>
-      </template>
+      </template> */}
 
       <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
         I'm a graduate of Zetech University, majored in BBIT with a
