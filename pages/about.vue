@@ -1,12 +1,12 @@
 <template>
-<div class="flex flex-wrap justify-center">
-  <div class="max-w-3xl px-4 mx-auto sm:px-6 xl:max-w-5xl xl:px-0">
-    <img src="https://avatars.githubusercontent.com/u/76564523?v=4" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
-  </div>
-</div>
+
   <div class="max-w-3xl px-4 mx-auto sm:px-6 xl:max-w-5xl xl:px-0">
     <div class="pt-6 pb-8 space-y-2 md:space-y-5">
-    
+    <div class="flex flex-wrap justify-center">
+
+    <img src="https://avatars.githubusercontent.com/u/76564523?v=4" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
+ 
+</div>
 
       <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
         I'm a graduate of Zetech University, majored in BBIT with a
