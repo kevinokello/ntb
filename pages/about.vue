@@ -1,6 +1,6 @@
 <template>
 <div class="flex flex-wrap justify-center">
-  <div class="w-6/12 sm:w-4/12 px-4">
+  <div class="max-w-3xl px-4 mx-auto sm:px-6 xl:max-w-5xl xl:px-0">
     <img src="https://avatars.githubusercontent.com/u/76564523?v=4" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
   </div>
 </div>
