@@ -1,12 +1,13 @@
 <template>
-
   <div class="max-w-3xl px-4 mx-auto sm:px-6 xl:max-w-5xl xl:px-0">
     <div class="pt-6 pb-8 space-y-2 md:space-y-5">
-    <div class="flex flex-wrap justify-center">
-
-    <img src="https://avatars.githubusercontent.com/u/76564523?v=4" alt="..." class="shadow-lg rounded max-w-full h-auto align-middle border-none" />
- 
-</div>
+      <div class="flex flex-wrap justify-center">
+        <img
+          src="https://avatars.githubusercontent.com/u/76564523?v=4"
+          alt="..."
+          class="shadow-lg rounded max-w-full h-auto align-middle border-none"
+        />
+      </div>
 
       <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
         I'm a graduate of Zetech University, majored in BBIT with a
@@ -46,46 +47,6 @@
       </div>
     </main>
   </div>
-  <div class="grid grid-cols-3 gap-4">
-  <div class="mb-4">
-    <div class="relative overflow-hidden bg-no-repeat bg-cover max-w-xs">
-      <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="max-w-xs" alt="Louvre" />
-      <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-50 transition duration-300 ease-in-out bg-indigo-700"></div>
-    </div>
-  </div>
-  <div class="mb-4">
-    <div class="relative overflow-hidden bg-no-repeat bg-cover max-w-xs">
-      <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="max-w-xs" alt="Louvre" />
-      <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-20 transition duration-300 ease-in-out bg-purple-700"></div>
-    </div>
-  </div>
-  <div class="mb-4">
-    <div class="relative overflow-hidden bg-no-repeat bg-cover max-w-xs">
-      <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="max-w-xs" alt="Louvre" />
-      <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-70 transition duration-300 ease-in-out bg-green-700"></div>
-    </div>
-  </div>
-</div>
-<div class="grid grid-cols-3 gap-4">
-  <div class="mb-4 md:mb-0">
-    <div class="relative overflow-hidden bg-no-repeat bg-cover max-w-xs">
-      <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="max-w-xs" alt="Louvre" />
-      <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-30 transition duration-300 ease-in-out bg-red-700"></div>
-    </div>
-  </div>
-  <div class="mb-4 md:mb-0">
-    <div class="relative overflow-hidden bg-no-repeat bg-cover max-w-xs">
-      <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="max-w-xs" alt="Louvre" />
-      <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-40 transition duration-300 ease-in-out bg-white"></div>
-    </div>
-  </div>
-  <div class="mb-4 md:mb-0">
-    <div class="relative overflow-hidden bg-no-repeat bg-cover max-w-xs">
-      <img src="https://mdbcdn.b-cdn.net/img/new/fluid/city/113.webp" class="max-w-xs" alt="Louvre" />
-      <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-60 transition duration-300 ease-in-out bg-blue-400"></div>
-    </div>
-  </div>
-</div>
 </template>
 
 <script></script>
